@@ -1,0 +1,5 @@
+include 'app'
+include 'client'
+include 'tyrus'
+
+rootProject.name = 'reactive-websocket'
